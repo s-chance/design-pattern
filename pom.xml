@@ -19,6 +19,7 @@
         <module>decorator</module>
         <module>facade</module>
         <module>templateMethod</module>
+        <module>state</module>
     </modules>
 
     <properties>
