@@ -26,6 +26,7 @@
         <module>proxy</module>
         <module>bridge</module>
         <module>composite</module>
+        <module>iterator</module>
     </modules>
 
     <properties>
