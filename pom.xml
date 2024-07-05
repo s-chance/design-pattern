@@ -23,6 +23,7 @@
         <module>builder</module>
         <module>prototype</module>
         <module>flyweight</module>
+        <module>proxy</module>
     </modules>
 
     <properties>
