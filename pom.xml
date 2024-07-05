@@ -24,6 +24,7 @@
         <module>prototype</module>
         <module>flyweight</module>
         <module>proxy</module>
+        <module>bridge</module>
     </modules>
 
     <properties>
