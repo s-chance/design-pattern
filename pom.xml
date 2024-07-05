@@ -30,6 +30,7 @@
         <module>mediator</module>
         <module>memento</module>
         <module>interpreter</module>
+        <module>chainOfResponsibility</module>
     </modules>
 
     <properties>
