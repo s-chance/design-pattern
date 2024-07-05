@@ -22,6 +22,7 @@
         <module>state</module>
         <module>builder</module>
         <module>prototype</module>
+        <module>flyweight</module>
     </modules>
 
     <properties>
